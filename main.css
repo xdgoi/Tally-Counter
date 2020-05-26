@@ -1,0 +1,60 @@
+body{
+    background-color:#383b38
+}
+
+
+.TallyText{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding: 220px 0;
+    text-size-adjust: 100px;
+    color: white
+    
+}
+
+
+
+.button1{
+    background-color: white; /* Black */
+    border: none;
+    color: black;
+    padding: 25px, 25px, 25px, 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 12px;
+    width: 25px;
+    position: relative;
+    left: 60px;
+    bottom: 52px;
+    cursor: pointer;
+}
+
+
+
+.button2{
+    background-color: white; /* Black */
+    border: none;
+    color: black;
+    padding: 25px, 25px, 25px, 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 12px;
+    width: 25px;
+    position: relative;
+    right: 60px;
+    bottom: 52px;
+    cursor: pointer;
+}
+
+
+
+.SmallText {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    
+}
